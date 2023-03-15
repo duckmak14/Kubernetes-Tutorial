@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\84962\\source\\repos\\LabKube\\LabKube\\LabKube.csproj": {}
+    "C:\\Users\\84962\\Documents\\GitHub\\Kubernetes-Tutorial\\Labs\\Lab_01-Docs_03\\LabKube\\LabKube\\LabKube.csproj": {}
   },
   "projects": {
-    "C:\\Users\\84962\\source\\repos\\LabKube\\LabKube\\LabKube.csproj": {
+    "C:\\Users\\84962\\Documents\\GitHub\\Kubernetes-Tutorial\\Labs\\Lab_01-Docs_03\\LabKube\\LabKube\\LabKube.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\84962\\source\\repos\\LabKube\\LabKube\\LabKube.csproj",
+        "projectUniqueName": "C:\\Users\\84962\\Documents\\GitHub\\Kubernetes-Tutorial\\Labs\\Lab_01-Docs_03\\LabKube\\LabKube\\LabKube.csproj",
         "projectName": "LabKube",
-        "projectPath": "C:\\Users\\84962\\source\\repos\\LabKube\\LabKube\\LabKube.csproj",
+        "projectPath": "C:\\Users\\84962\\Documents\\GitHub\\Kubernetes-Tutorial\\Labs\\Lab_01-Docs_03\\LabKube\\LabKube\\LabKube.csproj",
         "packagesPath": "C:\\Users\\84962\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\84962\\source\\repos\\LabKube\\LabKube\\obj\\",
+        "outputPath": "C:\\Users\\84962\\Documents\\GitHub\\Kubernetes-Tutorial\\Labs\\Lab_01-Docs_03\\LabKube\\LabKube\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\84962\\AppData\\Roaming\\NuGet\\NuGet.Config",
